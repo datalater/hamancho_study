@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document type="BLUMIND" editor_version="3.2.902.24361" document_version="3.0.0.0">
+  <!--Create by Blumind, you can download it free from http://www.blumind.org-->
+  <information>
+    <author>Jay</author>
+    <company>
+    </company>
+    <version>3.0</version>
+    <description>
+    </description>
+  </information>
+  <attributes>
+    <item name="editor_show_sidebar">False</item>
+  </attributes>
+  <charts active_chart="0">
+    <chart name="New Chart 1" type="MindMap">
+      <remark>
+      </remark>
+      <layout>LOGIC_RIGHT</layout>
+      <style>
+        <back_color>White</back_color>
+        <fore_color>Black</fore_color>
+        <line_color>LightSlateGray</line_color>
+        <border_color>SlateGray</border_color>
+        <node_back_color>LightGray</node_back_color>
+        <node_fore_color>Black</node_fore_color>
+        <select_color>RoyalBlue</select_color>
+        <hover_color>MediumSlateBlue</hover_color>
+        <link_line_color>Green</link_line_color>
+        <widget_margin>1</widget_margin>
+        <picture_thumb_size>100, 100</picture_thumb_size>
+      </style>
+      <nodes>
+        <node id="1" text=" case) 가계부채: 부동산담보 대출" x="20" y="377" width="213" height="42" text_b="12, 12, 189, 18">
+          <style>
+            <back_color>Silver</back_color>
+            <fore_color>Black</fore_color>
+            <border_color>Black</border_color>
+            <padding>12</padding>
+          </style>
+          <nodes>
+            <node id="2" text="저소득층의 가계부채 증가" x="313" y="387" width="153" height="22" text_b="2, 2, 149, 18" fold_btn_b="466, 392, 13, 13">
+              <nodes>
+                <node id="3" text="상환 가능성 낮음" x="546" y="387" width="104" height="22" text_b="2, 2, 100, 18" fold_btn_b="650, 392, 13, 13">
+                  <nodes>
+                    <node id="4" text="저소득층 구제를 위한 사회안전망 구축 비용 증가" x="730" y="355" width="282" height="22" text_b="2, 2, 278, 18" />
+                    <node id="5" text="대출을 해준 금융기관 파산 가능성 높아짐" x="730" y="387" width="240" height="22" text_b="2, 2, 236, 18" fold_btn_b="970, 392, 13, 13">
+                      <nodes>
+                        <node id="6" text="금융기관 구제를 위한 비용 증가" x="1050" y="387" width="187" height="22" text_b="2, 2, 183, 18" />
+                      </nodes>
+                      <lines>
+                        <line target="6" begin_side="Right" end_side="Left" begin_rect="730, 387, 253, 22" end_rect="1050, 387, 187, 22" />
+                      </lines>
+                    </node>
+                    <node id="7" text="부동산 시장" x="730" y="419" width="75" height="22" text_b="2, 2, 71, 18" />
+                  </nodes>
+                  <lines>
+                    <line target="4" begin_side="Right" end_side="Left" begin_rect="546, 387, 117, 22" end_rect="730, 355, 282, 22" />
+                    <line target="5" begin_side="Right" end_side="Left" begin_rect="546, 387, 117, 22" end_rect="730, 387, 240, 22" />
+                    <line target="7" begin_side="Right" end_side="Left" begin_rect="546, 387, 117, 22" end_rect="730, 419, 75, 22" />
+                  </lines>
+                </node>
+              </nodes>
+              <lines>
+                <line target="3" begin_side="Right" end_side="Left" begin_rect="313, 387, 166, 22" end_rect="546, 387, 104, 22" />
+              </lines>
+            </node>
+          </nodes>
+          <lines>
+            <line target="2" begin_side="Right" end_side="Left" begin_rect="20, 377, 213, 42" end_rect="313, 387, 153, 22" />
+          </lines>
+        </node>
+      </nodes>
+    </chart>
+  </charts>
+</document>

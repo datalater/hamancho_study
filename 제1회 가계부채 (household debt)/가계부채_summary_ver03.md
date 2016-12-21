@@ -50,7 +50,8 @@
 
 ![현대경제연구원_가계대출증가율_및_대출금리추이](https://github.com/datalater/hamancho_study/blob/master/images/%ED%98%84%EB%8C%80%EA%B2%BD%EC%A0%9C%EC%97%B0%EA%B5%AC%EC%9B%90_%EA%B0%80%EA%B3%84%EB%8C%80%EC%B6%9C%EC%A6%9D%EA%B0%80%EC%9C%A8_%EB%B0%8F_%EB%8C%80%EC%B6%9C%EA%B8%88%EB%A6%AC%EC%B6%94%EC%9D%B4.PNG?raw=true)
 
-위 그래프를 보면 13년도 이후 대출 금리가 낮아질수록 가계대출이 증가하고 있다.
++ <가계대출 증가율 및 대출 금리 추이>  
+13년도 이후 대출 금리가 낮아질수록 가계대출이 증가하고 있다.
 
 #### 2) 가계소득 부진 ####
 
@@ -64,10 +65,10 @@
 
 ![현대경제연구원_가계소득_및_대출증가율추이](https://github.com/datalater/hamancho_study/blob/master/images/%ED%98%84%EB%8C%80%EA%B2%BD%EC%A0%9C%EC%97%B0%EA%B5%AC%EC%9B%90_%EA%B0%80%EA%B3%84%EC%86%8C%EB%93%9D_%EB%B0%8F_%EA%B8%B0%ED%83%80%EB%8C%80%EC%B6%9C%EC%A6%9D%EA%B0%80%EC%9C%A8%EC%B6%94%EC%9D%B4_%EC%86%8C%EB%93%9D%EC%88%98%EC%A4%80%EB%B3%84%EC%8B%A0%EC%9A%A9%EB%8C%80%EC%B6%9C%EB%B9%84%EC%A4%91.PNG?raw=true)
 
-+ 왼쪽 그래프  
++ <가계소득 및 기타 대출 증가율 추이>  
 가계소득의 증가율이 낮아질수록 기타대출의 증가율이 높아지고 있다. 
 
-+ 오른쪽 그래프  
++ <소득수준별 생활비 및 부채상환 용도 신용대출 비중>  
 소득수준이 낮을수록 생활비 및 부채상환에 대한 신용대출 비중이 해마다 높아지고 있다.
 
 #### 3) 주택시장 활황 ####
@@ -78,9 +79,9 @@
 
 ![현대경제연구원_주택시장소비심리지수](https://github.com/datalater/hamancho_study/blob/master/images/%ED%98%84%EB%8C%80%EA%B2%BD%EC%A0%9C%EC%97%B0%EA%B5%AC%EC%9B%90_%EC%A3%BC%ED%83%9D%EC%8B%9C%EC%9E%A5%EC%86%8C%EB%B9%84%EC%8B%AC%EB%A6%AC%EC%A7%80%EC%88%98.PNG?raw=true)
 
-+ 왼쪽 그래프  
++ <주택시장 소비심리지수>  
 주택매매시장 소비심리지수는 2015년 하반기부터 2016년 9월까지 급등하는 모습이다. 또한 전세보다는 매매 수요가 최근 더 크게 증가하고 있다.  
-+ 오른쪽 그래프  
++ <아파트 분양 물량 및 주택담보대출 증가율 추이>  
 2015년 아파트 물량은 2008년 이후 최대 수준이다. 또한 주택담보대출도 빠르게 증가하고 있다.
 
 

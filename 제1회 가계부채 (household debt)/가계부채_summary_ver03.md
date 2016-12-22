@@ -136,6 +136,8 @@
 
 > 출처: LG경제연구원
 
+![주요가계부채정책](https://github.com/datalater/hamancho_study/blob/master/images/%EC%A3%BC%EC%9A%94%EA%B0%80%EA%B3%84%EB%B6%80%EC%B1%84%EC%A0%95%EC%B1%85.PNG?raw=true)
+
 
 ----------
 
